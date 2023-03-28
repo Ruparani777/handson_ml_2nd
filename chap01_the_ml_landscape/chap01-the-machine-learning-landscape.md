@@ -35,7 +35,7 @@ ML is the science (and art) of programming computers so they can learn from data
 
 +   **a slightly more generally definition**:
 
-    ML is the filed of study that gives computers the ability to learn without being explicitly programmed.
+    ML is the field of study that gives computers the ability to learn without being explicitly programmed.
 
 +   **a more engineering-oriented** (以...为导向的/目标的) **one**:
 
